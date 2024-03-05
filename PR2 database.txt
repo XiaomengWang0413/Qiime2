@@ -1,7 +1,7 @@
 #QIIME2 PR2
 #database download
 #https://github.com/pr2database/pr2database/releases
-#数据库的构建
+#Prep reference database
 # First import the database
 qiime tools import \
   --type 'FeatureData[Sequence]' \
@@ -33,7 +33,7 @@ qiime feature-classifier fit-classifier-naive-bayes \
   --i-reference-reads  v9_extracts.qza \
   --i-reference-taxonomy pr2_tax.qza \
   --o-classifier PR2-v9-classifier.qza
-
+#full length database
 qiime feature-classifier fit-classifier-naive-bayes \
   --i-reference-reads  pr2.qza \
   --i-reference-taxonomy pr2_tax.qza \
