@@ -1,3 +1,4 @@
+#!bin/bash
 #18S analysis
 
 source activate /home/xunying/miniconda3/envs/qiime2-2023.7
