@@ -1,3 +1,6 @@
+#!bin/bash
+source activate /home/xxx/miniconda3/envs/qiime2-2023.09
+
 #QIIME2 PR2
 #database download
 #https://github.com/pr2database/pr2database/releases
