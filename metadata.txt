@@ -1,0 +1,938 @@
+sample-id	group
+#q2:types	categorical	
+47-5m	a
+47-25m	a
+47-50m	a
+47-62m	a
+47-100m	a
+47-150m	a
+47-200m	a
+47-300m	a
+47-500m	a
+47-800m	a
+47-900m	a
+49-2m	b
+49-25m	b
+49-52m	b
+49-72m	b
+49-100m	b
+49-150m	b
+49-200m	b
+49-300m	b
+49-500m	b
+49-800m	b
+49-1000m	b
+51-5m	c
+51-25m	c
+51-40m	c
+51-75m	c
+51-100m	c
+51-150m	c
+51-200m	c
+51-300m	c
+51-500m	c
+52-5m	d
+52-25m	d
+52-32m	d
+52-75m	d
+52-100m	d
+52-150m	d
+52-200m	d
+52-300m	d
+52-500m	d
+52-800m	d
+52-1000m	d
+52-1500m	d
+54-2m	e
+54-25m	e
+54-54m	e
+54-75m	e
+54-100m	e
+54-150m	e
+54-200m	e
+54-300m	e
+54-500m	e
+54-800m	e
+54-1000m	e
+54-1500m	e
+56-2m	f
+56-25m	f
+56-50m	f
+56-75m	f
+56-100m	f
+56-150m	f
+56-200m	f
+56-500m	f
+56-800m	f
+56-1000m	f
+56-1500m	f
+59-5m	g
+59-15m	g
+59-26m	g
+59-50m	g
+59-100m	g
+59-150m	g
+59-200m	g
+59-300m	g
+59-500m	g
+59-800m	g
+59-1000m	g
+59-1500m	g
+61-5m	h
+61-25m	h
+61-42m	h
+61-75m	h
+61-100m	h
+61-150m	h
+61-200m	h
+61-300m	h
+61-500m	h
+61-800m	h
+61-1000m	h
+61-1500m	h
+64-2m	i
+64-30m	i
+64-50m	i
+64-75m	i
+64-100m	i
+64-150m	i
+64-200m	i
+64-300m	i
+64-500m	i
+64-800m	i
+64-1000m	i
+64-1500m	i
+66-2m	j
+66-25m	j
+66-45m	j
+66-75m	j
+66-100m	j
+66-150m	j
+66-200m	j
+66-300m	j
+66-500m	j
+66-800m	j
+68-5m	k
+68-15m	k
+68-30m	k
+68-50m	k
+68-100m	k
+68-150m	k
+68-200m	k
+68-300m	k
+68-500m	k
+68-800m	k
+68-1000m	k
+68-1500m	k
+71-5m	l
+71-25m	l
+71-50m	l
+71-71m	l
+71-100m	l
+71-150m	l
+71-200m	l
+71-300m	l
+71-500m	l
+71-800m	l
+71-1000m	l
+71-1500m	l
+73-5m	E
+73-25m	E
+73-50m	E
+73-72m	E
+73-100m	E
+73-150m	E
+73-200m	E
+73-300m	E
+73-500m	E
+73-800m	E
+73-1000m	E
+73-1500m	E
+75-5m	m
+75-25m	m
+75-50m	m
+75-71m	m
+75-100m	m
+75-150m	m
+75-200m	m
+75-300m	m
+75-500m	m
+75-800m	m
+75-1000m	m
+75-1500m	m
+76-2m	n
+76-25m	n
+76-50m	n
+76-75m	n
+76-100m	n
+76-150m	n
+76-200m	n
+76-300m	n
+76-500m	n
+76-800m	n
+76-1000m	n
+76-1460m	n
+78-2m	o
+78-25m	o
+78-50m	o
+78-100m	o
+78-150m	o
+78-200m	o
+78-300m	o
+78-500m	o
+78-800m	o
+78-1000m	o
+78-1500m	o
+80-2m	p
+80-25m	p
+80-50m	p
+80-75m	p
+80-95m	p
+80-150m	p
+80-200m	p
+80-300m	p
+80-500m	p
+80-800m	p
+80-1000m	p
+C1-10m	q
+C1-30m	q
+C1-45m	q
+C1-70m	q
+C1-90m	q
+C1-120m	q
+C3-10m	r
+C3-32m	r
+C3-50m	r
+C3-70m	r
+C3-90m	r
+C3-120m	r
+C5-10m	s
+C5-30m	s
+C5-40m	s
+C5-70m	s
+C5-90m	s
+C5-120m	s
+C7-10m	t
+C7-34m	t
+C7-50m	t
+C7-70m	t
+C7-90m	t
+C7-120m	t
+W1-10m	u
+W1-50m	u
+W1-82m	u
+W1-100m	u
+W1-120m	u
+W1-160m	u
+W3-10m	v
+W3-50m	v
+W3-86m	v
+W3-100m	v
+W3-120m	v
+W3-160m	v
+W5-10m	K
+W5-50m	K
+W5-91m	K
+W5-100m	K
+W5-120m	K
+W5-160m	K
+W7-10m	w
+W7-50m	w
+W7-92m	w
+W7-100m	w
+W7-120m	w
+W7-160m	w
+W9-10m	x
+W9-50m	x
+W9-87m	x
+W9-100m	x
+W9-120m	x
+W9-160m	x
+63-5	J
+63-25	J
+63-45	J
+63-75	J
+63-100	J
+63-200	J
+63-300	J
+66-1000	J
+A4	y
+A5	y
+A6	y
+A7	y
+A8	y
+A9	y
+A10	y
+A11	y
+A12	y
+A13	y
+A14	y
+A15	y
+A16	y
+A17	y
+A18	y
+A19	y
+A20	y
+A21	y
+B1	z
+B2	z
+B3	z
+B4	z
+B5	z
+B6	z
+B7	z
+B8	z
+B9	z
+B10	z
+B11	z
+B12	z
+B13	z
+B14	z
+B15	z
+B16	z
+B17	z
+B18	z
+B19	z
+B20	z
+B21	z
+C1	A
+C2	A
+C3	A
+C4	A
+C5	A
+C6	A
+C7	A
+C8	A
+C9	A
+C10	A
+C12	A
+C13	A
+C14	A
+C15	A
+C16	A
+C17	A
+C18	A
+C19	A
+C20	A
+C21	A
+C22	A
+C24	A
+D1	B
+D2	B
+D3	B
+D4	B
+D5	B
+D6	B
+D7	B
+D8	B
+D9	B
+D10	B
+D11	B
+D12	B
+D13	B
+D14	B
+D15	B
+D16	B
+D17	B
+D18	B
+D19	B
+D20	B
+D21	B
+D22	B
+D23	B
+D24	B
+E1	C
+E2	C
+E6	C
+E7	C
+E8	C
+E9	C
+E12	C
+E13	C
+E14	C
+E15	C
+E16	C
+E17	C
+E18	C
+E19	C
+E20	C
+E21	C
+E22	C
+E23	C
+E24	C
+F1	D
+F2	D
+F3	D
+F4	D
+F5	D
+F6	D
+F7	D
+F8	D
+F9	D
+F10	D
+F11	D
+F12	D
+F13	D
+F14	D
+F18	D
+F19	D
+F20	D
+F21	D
+F22	D
+F23	D
+F24	D
+G1	F
+G2	F
+G3	F
+G4	F
+G5	F
+G7	F
+G8	F
+G9	F
+G10	F
+G11	F
+G12	F
+G13	F
+G14	F
+G15	F
+G16	F
+G17	F
+G18	F
+G19	F
+G20	F
+G21	F
+G22	F
+G23	F
+G24	F
+G25	F
+H1	G
+H2	G
+H3	G
+H4	G
+H5	G
+H6	G
+H7	G
+H8	G
+H9	G
+H10	G
+H11	G
+H12	G
+H13	G
+H15	G
+H16	G
+H17	G
+H18	G
+H19	G
+H20	G
+H21	G
+H22	G
+H23	G
+H24	G
+I7	H
+I8	H
+I9	H
+I10	H
+S-1	I
+S-2	I
+S-3	I
+S-5	I
+S-6	I
+S-7	I
+S-8	I
+S-9	I
+S-11	I
+S-12	I
+S-13	I
+S-14	I
+S-15	I
+S-16	I
+S-17	I
+S-18	I
+S-19	I
+S-20	I
+S-22	I
+S-23	I
+S-24	I
+Yangtze-B1-2m	Y.a
+Yangtze-B1-12m	Y.a
+Yangtze-B2-2m	Y.a
+Yangtze-B2-13m	Y.a
+Yangtze-B3-2m	Y.a
+Yangtze-B3-11m	Y.a
+Yangtze-C1-2m	Y.b
+Yangtze-C1-8m	Y.b
+Yangtze-C2-2m	Y.b
+Yangtze-C2-15m	Y.b
+Yangtze-C3-2m	Y.b
+Yangtze-C3-10m	Y.b
+Yangtze-C4-2m	Y.b
+Yangtze-C4-5m	Y.b
+Yangtze-C5-2m	Y.b
+Yangtze-C5-7m	Y.b
+Yangtze-A51-2m	Y.c
+Yangtze-A51-7m	Y.c
+Yangtze-A58-2m	Y.c
+Yangtze-A58-25m	Y.c
+Yangtze-A58-45m	Y.c
+Yangtze-A68-2m	Y.c
+Yangtze-A68-30m	Y.c
+Yangtze-A68-60m	Y.c
+Yangtze-T1.0H-2m	Y.d
+Yangtze-T1.0H-17m	Y.d
+Yangtze-T1.3H-2m	Y.d
+Yangtze-T1.3H-17m	Y.d
+Yangtze-T1.6H-2m	Y.d
+Yangtze-T1.6H-17m	Y.d
+Yangtze-T1.9H-2m	Y.d
+Yangtze-T1.9H-17m	Y.d
+Yangtze-T1.12H-2m	Y.d
+Yangtze-T1.12H-17m	Y.d
+Yangtze-T1.15H-2m	Y.d
+Yangtze-T1.15H-17m	Y.d
+Yangtze-T1.18H-2m	Y.d
+Yangtze-T1.18H-17m	Y.d
+Yangtze-T1.21H-2m	Y.d
+Yangtze-T1.21H-17m	Y.d
+Yangtze-T2.0H-2m	Y.e
+Yangtze-T2.0H-30m	Y.e
+Yangtze-T2.0H-55m	Y.e
+Yangtze-T2.3H-2m	Y.e
+Yangtze-T2.3H-30m	Y.e
+Yangtze-T2.3H-55m	Y.e
+Yangtze-T2.6H-2m	Y.e
+Yangtze-T2.6H-30m	Y.e
+Yangtze-T2.6H-55m	Y.e
+Yangtze-T2.9H-2m	Y.e
+Yangtze-T2.9H-30m	Y.e
+Yangtze-T2.9H-55m	Y.e
+Yangtze-T2.12H-2m	Y.e
+Yangtze-T2.12H-30m	Y.e
+Yangtze-T2.12H-55m	Y.e
+Yangtze-T2.15H-2m	Y.e
+Yangtze-T2.15H-30m	Y.e
+Yangtze-T2.15H-55m	Y.e
+Yangtze-T2.18H-2m	Y.e
+Yangtze-T2.18H-30m	Y.e
+Yangtze-T2.18H-55m	Y.e
+Yangtze-T2.21H-2m	Y.e
+Yangtze-T2.21H-30m	Y.e
+Yangtze-T2.21H-55m	Y.e
+Yangtze-T2.24H-2m	Y.e
+Yangtze-T2.24H-30m	Y.e
+Yangtze-T2.24H-55m	Y.e
+Yangtze-A61-2m	Y.f
+Yangtze-A61-8m	Y.f
+Yangtze-A63-2m	Y.f
+Yangtze-A63-20m	Y.f
+Yangtze-A63-35m	Y.f
+Yangtze-A65-2m	Y.f
+Yangtze-A65-30m	Y.f
+TW-TSC7-2m	T.a
+TW-TSC7-30m	T.a
+TW-TSC7-60m	T.a
+TW-TSC10-2m	T.a
+TW-TSC10-20m	T.a
+TW-TSC10-60m	T.a
+TW-TSC4-2m	T.a
+TW-TSC4-20m	T.a
+TW-TSC4-48m	T.a
+TW-TS41-1.8m	T.a
+TW-TS41-5m	T.a
+TW-TS41-9m	T.a
+TW-TS21-1.5m	T.a
+TW-TS21-5m	T.a
+TW-TS21-13m	T.a
+TW-A7-2m	T.b
+TW-A7-10m	T.b
+TW-A7-28m	T.b
+TW-TS13-2m	T.c
+TW-TS13-20m	T.c
+TW-TS13-50m	T.c
+TW-A11-2m	T.d
+TW-A11-90m	T.d
+TW-A11-890m	T.d
+TW-TSC5-2m	T.e
+TW-TSC5-20m	T.e
+TW-TSC5-60m	T.e
+TW-A1-2m	T.f
+TW-A1-20m	T.f
+TW-A1-39m	T.f
+TW-TS31-2m	T.g
+TW-TS31-5m	T.g
+TW-TS31-8m	T.g
+TW-TS07-2m	T.h
+TW-TS07-30m	T.h
+TW-TS07-70m	T.h
+TW-B09-2m	T.i
+TW-B09-75m	T.i
+TW-B09-680m	T.i
+TW-TS43-2m	T.j
+TW-TS43-20m	T.j
+TW-TS43-48m	T.j
+TW-A3-2m	T.k
+TW-A3-20m	T.k
+TW-A3-32m	T.k
+TW-TS09-2m	T.l
+TW-TS09-38m	T.l
+TW-TS09-84m	T.l
+TW-TS01-2m	T.m
+TW-TS01-10m	T.m
+TW-TS01-21m	T.m
+TW-TS14-2m	T.n
+TW-TS14-18m	T.n
+TW-TS14-60m	T.n
+TW-TS33-2m	T.o
+TW-TS33-25m	T.o
+TW-TS33-54m	T.o
+TW-TS11-2m	T.p
+TW-TS11-10m	T.p
+TW-TS11-16m	T.p
+TW-TS05-2m	T.q
+TW-TS05-30m	T.q
+TW-TS05-60m	T.q
+TW-TS23-2m	T.r
+TW-TS23-12m	T.r
+TW-TS23-46m	T.r
+TW-TS03-2m	T.s
+TW-TS03-10m	T.s
+TW-TS03-44m	T.s
+HB-B14-3m	H.a
+HB-B14-13m	H.a
+HB-B14-22m	H.a
+HB-N26-3m	H.b
+HB-N26-20m	H.b
+HB-N26-49m	H.b
+HB-B11-3m	H.c
+HB-B11-13m	H.c
+HB-B11-26m	H.c
+HB-N23-2m	H.d
+HB-N23-12m	H.d
+HB-N23-44m	H.d
+HB-N20-3m	H.e
+HB-N20-17m	H.e
+HB-N05-3m	H.f
+HB-N05-15m	H.f
+HB-N05-60m	H.f
+HB-N02-3m	H.g
+HB-N02-14m	H.g
+HB-N02-57m	H.g
+HB-H38-3m	H.h
+HB-H38-24m	H.h
+HB-H38-69m	H.h
+HB-H32-3m	H.i
+HB-H02-3m	H.i
+HB-H02-10m	H.i
+HB-H02-38m	H.i
+HB-H05-3m	H.j
+HB-H05-16m	H.j
+HB-H06-3m	H.k
+HB-H06-11m	H.k
+HB-H10-3m	H.l
+HB-H10-10m	H.l
+HB-H10-45m	H.l
+HB-H11-3m	H.m
+HB-H11-35m	H.m
+HB-H11-73m	H.m
+HB-H13-3m	H.n
+HB-H13-10m	H.n
+HB-H13-58m	H.n
+HB-H15-3m	H.o
+HB-H15-16m	H.o
+HB-H18-3m	H.p
+HB-H18-15m	H.p
+HB-H18-28m	H.p
+HB-H21-3m	H.q
+HB-H21-31m	H.q
+HB-H21-60m	H.q
+HB-H23-3m	H.r
+HB-H23-40m	H.r
+HB-H23-77m	H.r
+HB-H25-3m	H.s
+HB-H25-45m	H.s
+HB-H25-72m	H.s
+HB-H28-3m	H.t
+HB-H28-22m	H.t
+HB-H28-62m	H.t
+HB-H32-14m	H.u
+HB-H32-27m	H.u
+HB-N09-3m	H.v
+HB-N09-18m	H.v
+HB-N09-50m	H.v
+HB-B04-3m	H.w
+HB-B04-16m	H.w
+BH-R5s.1-0m	BY.a
+BH-R5b.1-35m	BY.a
+BH-P1s.1-0m	BY.b
+BH-P1b.1-13m	BY.b
+YS-L5s.1-0m	BY.c
+YS-L5b.1-25m	BY.c
+YS-K5s.1-0m	BY.d
+YS-K5b.1-48m	BY.d
+YS-E4s.1-0m	BY.e
+YS-E4b.1-30m	BY.e
+BH-B8s.1-0m	BY.f
+BH-B8b.1-18m	BY.f
+BH-B6s.1-0m	BY.g
+BH-B6b.1-23m	BY.g
+BH-R5s-0m	BY.a
+BH-R5b-35m	BY.a
+BH-P1s-0m	BY.b
+BH-P1b-13m	BY.b
+YS-L5s-0m	BY.c
+YS-L5b-25m	BY.c
+YS-K5s-0m	BY.d
+YS-K5b-48m	BY.d
+YS-E4s-0m	BY.e
+YS-E4b-30m	BY.e
+BH-B8s-0m	BY.f
+BH-B8b-18m	BY.f
+BH-B6s-0m	BY.g
+BH-B6b-23m	BY.g
+ESC-15.1-5 m	E.a
+ESC-14.1-5 m	E.a
+ESC-K.1-5 m	E.a
+ESC-9.1-5 m	E.a
+ESC-12.1-5 m	E.a
+ESC-10.1-5 m	E.a
+ESC-3.1-5 m	E.a
+ESC-1.1-5 m	E.a
+ESC-8.1-5 m	E.a
+ESC-5.1-5 m	E.a
+ESC-K-5 m	E.a
+ESC-9-5 m	E.a
+ESC-31.1-80 m	E.a
+ESC-30-15 m	E.a
+ESC-19A.1-25 m	E.a
+ESC-32.1-90 m	E.a
+ESC-3-5 m	E.a
+ESC-1-5 m	E.a
+ESC-8-5 m	E.a
+ESC-5-5 m	E.a
+ESC-32.1-5 m	E.a
+ESC-31.1-5 m	E.a
+ESC-27.1-5 m	E.a
+ESC-26.1-5 m	E.a
+ESC-24.1-5 m	E.a
+ESC-23.1-5 m	E.a
+ESC-22.1-5 m	E.a
+ESC-21.1-5 m	E.a
+ESC-20.1-5 m	E.a
+ESC-1A.1-5 m	E.a
+ESC-28.1-53 m	E.a
+ESC-29.1-55 m	E.a
+ESC-21.1-48 m	E.a
+ESC-22.1-60 m	E.a
+ESC-19.1-33 m	E.a
+ESC-20.1-45 m	E.a
+ESC-26.1-95 m	E.a
+ESC-27.1-85 m	E.a
+ESC-23.1-73 m	E.a
+ESC-24.1-100 m	E.a
+ESC-28-53 m	E.a
+ESC-29-55 m	E.a
+ESC-26-95 m	E.a
+ESC-27-85 m	E.a
+ESC-32-90 m	E.a
+ESC-19A-25 m	E.a
+ESC-30.1-15 m	E.a
+ESC-31-80 m	E.a
+ESC-4.1-5 m	E.a
+ESC-2.1-5 m	E.a
+ESC-35.1-5 m	E.a
+ESC-34.1-5 m	E.a
+ESC-32-5 m	E.a
+ESC-31-5 m	E.a
+ESC-27-5 m	E.a
+ESC-26-5 m	E.a
+ESC-7.1-5 m	E.a
+ESC-6.1-5 m	E.a
+ESC-5.1-10 m	E.a
+ESC-3.1-27 m	E.a
+ESC-9.1-55 m	E.a
+ESC-8.1-50 m	E.a
+ESC-30.1-5 m	E.a
+ESC-29.1-5 m	E.a
+ESC-1.1-30 m	E.a
+ESC-19A.1-5 m	E.a
+ESC-10.1-67 m	E.a
+ESC-K.1-80 m	E.a
+ESC-10-5 m	E.a
+ESC-12-5 m	E.a
+ESC-14-5 m	E.a
+ESC-15-5 m	E.a
+ESC-1A-5 m	E.a
+ESC-20-5 m	E.a
+ESC-21-5 m	E.a
+ESC-22-5 m	E.a
+ESC-23-5 m	E.a
+ESC-24-5 m	E.a
+ESC-17.1-5 m	E.a
+ESC-18.1-5 m	E.a
+ESC-6-5 m	E.a
+ESC-7-5 m	E.a
+ESC-2-5 m	E.a
+ESC-4-5 m	E.a
+ESC-34-5 m	E.a
+ESC-35-5 m	E.a
+ESC-19.1-5 m	E.a
+ESC-28.1-5 m	E.a
+ESC-35.1-25 m	E.a
+ESC-6.1-25 m	E.a
+ESC-27.1-23 m	E.a
+ESC-31.1-40 m	E.a
+ESC-32.1-50 m	E.a
+ESC-34.1-40 m	E.a
+ESC-22.1-25 m	E.a
+ESC-23.1-27 m	E.a
+ESC-24.1-45 m	E.a
+ESC-26.1-36 m	E.a
+ESC-34-40 m	E.a
+ESC-32-50 m	E.a
+ESC-31-40 m	E.a
+ESC-27-23 m	E.a
+ESC-15.1-90 m	E.a
+ESC-7.1-80 m	E.a
+ESC-6-25 m	E.a
+ESC-35-25 m	E.a
+ESC-18.1-30 m	E.a
+ESC-17.1-65 m	E.a
+ESC-24-100 m	E.a
+ESC-23-73 m	E.a
+ESC-18-30 m	E.a
+ESC-17-65 m	E.a
+ESC-15-90 m	E.a
+ESC-7-80 m	E.a
+ESC-22-60 m	E.a
+ESC-21-48 m	E.a
+ESC-20-45 m	E.a
+ESC-19-33 m	E.a
+ESC-14.1-50 m	E.a
+ESC-19A-5 m	E.a
+ESC-1-30 m	E.a
+ESC-29-5 m	E.a
+ESC-30-5 m	E.a
+ESC-19-5 m	E.a
+ESC-28-5 m	E.a
+ESC-17-5 m	E.a
+ESC-18-5 m	E.a
+ESC-24-45 m	E.a
+ESC-3-27 m	E.a
+ESC-5-10 m	E.a
+ESC-26-36 m	E.a
+ESC-12.1-50 m	E.a
+ESC-14-50 m	E.a
+ESC-12-50 m	E.a
+ESC-1A.1-65 m	E.a
+ESC-15.1-24 m	E.a
+ESC-9-55 m	E.a
+ESC-8-50 m	E.a
+ESC-10-67 m	E.a
+ESC-K-80 m	E.a
+ESC-20.1-20 m	E.a
+ESC-21.1-20 m	E.a
+ESC-22-25 m	E.a
+ESC-23-27 m	E.a
+ESC-21-20 m	E.a
+ESC-20-20 m	E.a
+ESC-15-24 m	E.a
+ESC-1A-65 m	E.a
+ESC-14.2-50 m	E.a
+ESC-12.2-50 m	E.a
+ESC-1A.2-65 m	E.a
+ESC-15.2-24 m	E.a
+ESC-21.2-20 m	E.a
+ESC-20.2-20 m	E.a
+ESC-23.2-27 m	E.a
+ESC-22.2-25 m	E.a
+ESC-26.2-36 m	E.a
+ESC-24.2-45 m	E.a
+ESC-20.2-45 m	E.a
+ESC-19.2-33 m	E.a
+ESC-27.2-85 m	E.a
+ESC-26.2-95 m	E.a
+ESC-24.2-100 m	E.a
+ESC-23.2-73 m	E.a
+ESC-18.2-5 m	E.a
+ESC-17.2-5 m	E.a
+ESC-7.2-5 m	E.a
+ESC-6.2-5 m	E.a
+ESC-4.2-5 m	E.a
+ESC-2.2-5 m	E.a
+ESC-35.2-5 m	E.a
+ESC-34.2-5 m	E.a
+ESC-30.2-15 m	E.a
+ESC-28.2-5 m	E.a
+ESC-19.2-5 m	E.a
+ESC-31.2-80 m	E.a
+ESC-18.2-30 m	E.a
+ESC-35.2-25 m	E.a
+ESC-6.2-25 m	E.a
+ESC-19A.2-25 m	E.a
+ESC-22.2-60 m	E.a
+ESC-21.2-48 m	E.a
+ESC-32.2-50 m	E.a
+ESC-34.2-40 m	E.a
+ESC-27.2-23 m	E.a
+ESC-31.2-40 m	E.a
+ESC-7.2-80 m	E.a
+ESC-15.2-90 m	E.a
+ESC-31.2-5 m	E.a
+ESC-32.2-5 m	E.a
+ESC-26.2-5 m	E.a
+ESC-27.2-5 m	E.a
+ESC-23.2-5 m	E.a
+ESC-24.2-5 m	E.a
+ESC-21.2-5 m	E.a
+ESC-22.2-5 m	E.a
+ESC-1A.2-5 m	E.a
+ESC-20.2-5 m	E.a
+ESC-29.2-5 m	E.a
+ESC-30.2-5 m	E.a
+ESC-19A.2-5 m	E.a
+ESC-1.2-30 m	E.a
+ESC-3.2-27 m	E.a
+ESC-5.2-10 m	E.a
+ESC-8.2-50 m	E.a
+ESC-9.2-55 m	E.a
+ESC-K.2-80 m	E.a
+ESC-10.2-67 m	E.a
+ESC-29.2-55 m	E.a
+ESC-32.2-90 m	E.a
+ESC-17.2-65 m	E.a
+ESC-10.2-5 m	E.a
+ESC-12.2-5 m	E.a
+ESC-9.2-5 m	E.a
+ESC-K.2-5 m	E.a
+ESC-5.2-5 m	E.a
+ESC-8.2-5 m	E.a
+ESC-1.2-5 m	E.a
+ESC-3.2-5 m	E.a
+ESC-14.2-5 m	E.a
+ESC-28.2-53 m	E.a
+ESC-15.2-5 m	E.a
+YS-S71	YS
+YS-S70	YS
+YS-S49	YS
+YS-S48	YS
+YS-S47	YS
+YS-S46	YS
+YS-S54	YS
+YS-S53	YS
+YS-S51	YS
+YS-S50	YS
+YS-S69	YS
+YS-S68	YS
+YS-S40	YS
+YS-W42	YS
+YS-W41	YS
+YS-W40	YS
+YS-W39	YS
+YS-S45	YS
+YS-S44	YS
+YS-S43	YS
+YS-S42	YS
+YS-W45	YS
+YS-W44	YS
+YS-S41	YS
+
+
