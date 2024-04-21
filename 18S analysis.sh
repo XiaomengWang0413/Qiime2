@@ -1,7 +1,7 @@
 #!bin/bash
 #18S analysis
 
-source activate /home/xunying/miniconda3/envs/qiime2-2023.7
+source activate /home/xiaomeng/miniconda3/envs/qiime2-2023.7
 
 2.1 Import data
 qiime tools import \
